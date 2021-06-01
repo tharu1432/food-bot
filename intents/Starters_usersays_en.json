@@ -1,0 +1,28 @@
+[
+  {
+    "id": "072a7803-7073-425c-bb4c-c2088f023025",
+    "data": [
+      {
+        "text": "snack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df8ac8a9-8116-42d7-925a-4453d33d9877",
+    "data": [
+      {
+        "text": "Starters",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

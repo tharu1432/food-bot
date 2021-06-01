@@ -1,0 +1,69 @@
+[
+  {
+    "id": "7d374699-161f-4a40-b304-7534b21a17f8",
+    "data": [
+      {
+        "text": "Hot Chocolate",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b41eb121-556e-4da0-80d4-04a66aa29e55",
+    "data": [
+      {
+        "text": "Milkshakes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6551999a-2778-487b-a917-89ab805d847b",
+    "data": [
+      {
+        "text": "Ice Creams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c5760f7-f193-4a55-965c-5e4adb0792be",
+    "data": [
+      {
+        "text": "panner -tikka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d90fed86-3b25-4847-90bb-e534b93f6426",
+    "data": [
+      {
+        "text": "Vegetable samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
